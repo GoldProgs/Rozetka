@@ -20,3 +20,38 @@ html {
 body {
   margin-bottom: 60px;
 }
+
+.navbar-brand {
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 25px;
+}
+
+.search-box {
+    position: relative;
+}
+
+.search-box input[type="search"] {
+    padding-right: 30px;
+}
+
+.search-box i {
+    position: absolute;
+    top: 50%;
+    right: 10px;
+    transform: translateY(-50%);
+}
+
+.search-style {
+    width: 500px;
+    height: 40px;
+    border-radius: 2px;
+    border: 1px solid black;
+    outline: none;
+    padding-left: 8px;
+}
+
+.fas {
+    cursor: pointer;
+}

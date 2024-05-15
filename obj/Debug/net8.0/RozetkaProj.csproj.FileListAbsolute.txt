@@ -28,3 +28,4 @@ C:\Users\Kostya\source\repos\RozetkaProj\obj\Debug\net8.0\refint\RozetkaProj.dll
 C:\Users\Kostya\source\repos\RozetkaProj\obj\Debug\net8.0\RozetkaProj.pdb
 C:\Users\Kostya\source\repos\RozetkaProj\obj\Debug\net8.0\RozetkaProj.genruntimeconfig.cache
 C:\Users\Kostya\source\repos\RozetkaProj\obj\Debug\net8.0\ref\RozetkaProj.dll
+C:\Users\Kostya\source\repos\RozetkaProj\obj\Debug\net8.0\RozetkaProj.sourcelink.json

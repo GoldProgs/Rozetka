@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RozetkaProj")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f9907ffdc9401cbcf21e2d21812956518ff90285")]
 [assembly: System.Reflection.AssemblyProductAttribute("RozetkaProj")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RozetkaProj")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
